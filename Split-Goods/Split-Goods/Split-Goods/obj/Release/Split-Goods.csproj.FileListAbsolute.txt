@@ -1,0 +1,13 @@
+D:\VS\Split-Goods\Split-Goods\Split-Goods\bin\Release\Split-Goods.exe.config
+D:\VS\Split-Goods\Split-Goods\Split-Goods\bin\Release\Split-Goods.exe
+D:\VS\Split-Goods\Split-Goods\Split-Goods\bin\Release\Split-Goods.pdb
+D:\VS\Split-Goods\Split-Goods\Split-Goods\obj\Release\Split_Goods.FillOrCancel.resources
+D:\VS\Split-Goods\Split-Goods\Split-Goods\obj\Release\Split_Goods.InsertUpdate.resources
+D:\VS\Split-Goods\Split-Goods\Split-Goods\obj\Release\Split_Goods.Login.resources
+D:\VS\Split-Goods\Split-Goods\Split-Goods\obj\Release\Split_Goods.Navigation.resources
+D:\VS\Split-Goods\Split-Goods\Split-Goods\obj\Release\Split_Goods.NewCustomer.resources
+D:\VS\Split-Goods\Split-Goods\Split-Goods\obj\Release\Split_Goods.Properties.Resources.resources
+D:\VS\Split-Goods\Split-Goods\Split-Goods\obj\Release\Split_Goods.Test.resources
+D:\VS\Split-Goods\Split-Goods\Split-Goods\obj\Release\Split-Goods.csproj.GenerateResource.Cache
+D:\VS\Split-Goods\Split-Goods\Split-Goods\obj\Release\Split-Goods.exe
+D:\VS\Split-Goods\Split-Goods\Split-Goods\obj\Release\Split-Goods.pdb
